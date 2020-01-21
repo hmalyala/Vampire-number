@@ -1,9 +1,9 @@
 # DOS Project 1
 
 
-Gopichand Kommineni         UFID 0305-5523
-Hemanth Kumar Malyala       UFID 6348-5914
-We implemented 
+Gopichand Kommineni         
+Hemanth Kumar Malyala       
+
 
 # Vampire Number
 
